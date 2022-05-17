@@ -1,0 +1,7 @@
+{
+  "name": "edu.umn.cs.ivlab.vistools",
+  "displayName": "IVLab Visualization Tools",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "description": "A collection of visualization tools/scripts for Unity projects by the Interactive Visualization Lab."
+}
